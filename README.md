@@ -24,7 +24,7 @@ yarn add react-native-slider-design
 
 ### Basic Usage 
 
-*Becarful the basic usage use the package react-native-vector-icons package to render SVG icons. If you are not using this package you also can use any component you want.*
+*Watch out the basic usage use the package react-native-vector-icons package to render SVG icons. If you are not using this package you also can use any component you want.*
 
 ```tsx
 
