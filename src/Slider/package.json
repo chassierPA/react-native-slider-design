@@ -1,6 +1,6 @@
 {
   "name": "react-native-slider-design",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-native component slider designed",
   "main": "Slider.tsx",
   "scripts": {
