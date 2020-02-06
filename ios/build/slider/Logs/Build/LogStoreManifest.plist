@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BB139672-D28D-4D44-8480-8621786A2599</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB139672-D28D-4D44-8480-8621786A2599.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>slider project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>slider</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace slider with scheme slider and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>602678511.71537805</real>
+			<key>timeStoppedRecording</key>
+			<real>602678512.90302396</real>
+			<key>title</key>
+			<string>Building workspace slider with scheme slider and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BB139672-D28D-4D44-8480-8621786A2599</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

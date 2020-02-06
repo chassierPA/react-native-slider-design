@@ -1,0 +1,49 @@
+{
+  "name": "react-native-components",
+  "version": "0.0.2",
+  "private": false,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "postinstall": "cd ios && pod install && cd ..",
+    "publish:npm": "rm -rf dist && mkdir dist && babel src -d dist --copy-files"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-responsive-screen": "^1.4.0",
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-react": "^7.8.3",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.3",
+    "@types/jest": "^24.0.18",
+    "@types/react": "^16.9.2",
+    "@types/react-native": "^0.60.14",
+    "@types/react-test-renderer": "^16.9.0",
+    "babel-jest": "^24.1.0",
+    "jest": "^24.1.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.6",
+    "typescript": "^3.6.3"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-react"
+    ]
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}

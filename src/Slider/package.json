@@ -1,0 +1,31 @@
+{
+  "name": "react-native-slider-design",
+  "version": "0.0.2",
+  "description": "react-native component slider designed",
+  "main": "Slider.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chassierPA/react-native-slider-design.git"
+  },
+  "keywords": [
+    "react-native",
+    "slider",
+    "radio",
+    "component",
+    "rn"
+  ],
+  "author": "Pierre-Alexandre CHASSIER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chassierPA/react-native-slider-design/issues"
+  },
+  "homepage": "https://github.com/chassierPA/react-native-slider-design#readme",
+  "peerDependencies": {
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-responsive-screen": "^1.4.0"
+  }
+}
