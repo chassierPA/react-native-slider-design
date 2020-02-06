@@ -5,14 +5,14 @@ import {
     heightPercentageToDP as hp,
 } from 'react-native-responsive-screen';
 
-export interface SwiperType {
+export interface SliderType {
     icon: ReactElement;
     id: any;
     onPress: (id: any) => any;
 }
 
 interface IProps {
-    datas: SwiperType[];
+    datas: SliderType[];
     startIndex?: number;
     opacity?: boolean;
     style?: any;
